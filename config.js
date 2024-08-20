@@ -23,14 +23,14 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
-global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
+global.owner = ['918761888106'];
+global.ownMain = '918761888106';
+global.NamaOwner = '𝞓𝙇𝞢𝞦🍷 𝚩𝐔𝐆'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
-global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Change if needed
-global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Change if needed
-global.packname = 'PATRON 🚹'; // Change if needed
+global.namabot = '𝞓𝙇𝞢𝞦🍷 𝚩𝐔𝐆'; // Change if needed
+global.author = '𝞓𝙇𝞢𝞦🍷 𝚩𝐔𝐆'; // Change if needed
+global.packname = 'aleX iS uR uPdaTed VerSioN⚡'; // Change if needed
 global.url = 'https://t.me/textpatron_bot'; // Do not change
 
 //===========================//
@@ -80,8 +80,8 @@ global.decor = {
 global.mess = {
   ingroup: 'This feature can only be used in groups.',
   admin: 'This feature is specifically for group admins🖕.',
-  owner: 'You are not the owner🫵😡.',
-  premium: 'You are not a premium user.',
+  owner: 'You are not 𝞓𝙇𝞢𝞦🍷🫵😡.',
+  premium: 'You are not a premium user, like mine 𝞓𝙇𝞢𝞦🌚',
   seller: 'This feature can only be used by resellers and the owner.',
   usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 😡🫵',
   wait: '*processing♻️ chillax....♻️*',
